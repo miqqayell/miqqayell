@@ -25,4 +25,6 @@ I build back-end and full-stack applications in Java and Spring Boot, and I'm lo
 
 ## Contact
 
+- Email: mikayelghalumyan@icloud.com
+- Instagram: https://www.instagram.com/miqqayell/
 - LinkedIn: [linkedin.com/in/mikayel-ghalumyan-5b5169386](https://www.linkedin.com/in/mikayel-ghalumyan-5b5169386/)
